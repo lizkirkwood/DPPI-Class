@@ -10,3 +10,5 @@ b = 3
 
 print(a + b)
 
+a *= 8
+print(a)
