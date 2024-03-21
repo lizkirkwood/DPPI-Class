@@ -12,3 +12,4 @@ print(a + b)
 
 a *= 8
 print(a)
+print("This is an update")
