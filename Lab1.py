@@ -10,4 +10,3 @@ b = 3
 
 print(a + b)
 
-print("Hello!")
